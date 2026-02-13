@@ -86,7 +86,10 @@ The dataset contains historical ride data including:
 
 ## 📸 Dashboard Preview
 
-(Add your dashboard screenshot here)
+<p align="center">
+  <img src="dashboard-preview.png" width="900">
+</p>
+
 
 ---
 
